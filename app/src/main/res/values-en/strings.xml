@@ -11,4 +11,7 @@
     <string name="dividir">Divide</string>
     <string name="numero1">Number 1</string>
     <string name="numero2">Number 2</string>
+    <string name="errNum1">Number 1 must be filled</string>
+    <string name="errNum2">Number 2 must be filled</string>
+    <string name="errNum2Div0">Number 2 couldn\'t be zero</string>
 </resources>

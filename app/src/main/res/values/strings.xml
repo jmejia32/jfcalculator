@@ -10,4 +10,13 @@
     <string name="dividir">Dividir</string>
     <string name="numero1">Primer Número</string>
     <string name="numero2">Segundo Número</string>
+    <string-array name="operaciones">
+        <item>@string/sumar</item>
+        <item>@string/restar</item>
+        <item>@string/multiplicar</item>
+        <item>@string/dividir</item>
+    </string-array>
+    <string name="errNum1">Ingrese el número 1</string>
+    <string name="errNum2">Ingrese el número 2</string>
+    <string name="errNum2Div0">El número 2 no puede ser cero</string>
 </resources>
