@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">JFCalculator</string>
+    <string name="app_name">Calculadora</string>
+    <string name="titulo">Calculadora</string>
+    <string name="operacion">Operación a Realizar</string>
+    <string name="calcular">Calcular</string>
+    <string name="borrar">Borrar</string>
 </resources>
