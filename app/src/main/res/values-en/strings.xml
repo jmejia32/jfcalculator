@@ -5,4 +5,10 @@
     <string name="calcular">Calculate</string>
     <string name="operacion">Operation to Perform</string>
     <string name="titulo">JFCalculator</string>
+    <string name="sumar">Add</string>
+    <string name="restar">Substract</string>
+    <string name="multiplicar">Multiply</string>
+    <string name="dividir">Divide</string>
+    <string name="numero1">Number 1</string>
+    <string name="numero2">Number 2</string>
 </resources>
